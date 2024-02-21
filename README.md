@@ -11,6 +11,6 @@
 ```
 
 3. Then click the link
-   ```bash
+```bash
    http://127.0.0.1:8000/
 ```
